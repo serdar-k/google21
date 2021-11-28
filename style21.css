@@ -1,0 +1,75 @@
+#input_container {
+    position:relative;
+    margin:auto;
+    width: 360px;
+    direction: ltr;
+}
+#input {
+    height: 36px;
+    margin-top:30px;
+    width: 100%;
+    border-radius: 25px;
+    text-indent: 50px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+#input_img {
+    position:absolute;
+    bottom:3px;
+    left: 3px;
+    width: 32px;;
+    height: 32px;
+}
+.navcontainer{
+    height: 120px;
+}
+
+.button{
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 400;
+    border: 2px solid #F8F9FA;
+    background-color: #F8F9FA;
+    width: fit-content;
+    height: 35px;
+    margin-bottom: 280px;   
+}
+
+.button1{
+    width: 70px;
+    height: 35px;
+    background-color: #2B7DE9;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.footer{
+    background-color: #c7c7c7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.space{
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.box1{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.box2{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
